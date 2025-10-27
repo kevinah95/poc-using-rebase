@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0-alpha.3](https://github.com/kevinah95/poc-using-rebase/compare/v0.4.0-alpha.2...v0.4.0-alpha.3) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* Enable bumping minor version for prereleases ([acadc22](https://github.com/kevinah95/poc-using-rebase/commit/acadc22640c8ccac4e128dc498fa0712f9b02562))
+
 ## [0.4.0-alpha.2](https://github.com/kevinah95/poc-using-rebase/compare/v0.4.0-alpha.1...v0.4.0-alpha.2) (2025-10-27)
 
 
