@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0-alpha.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.0-alpha...v0.6.0-alpha.1) (2025-10-27)
+
+
+### ✨ Features
+
+* **taskfile:** Add simulation tasks for feature and fix commits ([7553b5b](https://github.com/kevinah95/poc-using-rebase/commit/7553b5bb08faeb4fc92601f5351db918643a4753))
+
 ## [0.6.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.5.0...v0.6.0-alpha) (2025-10-27)
 
 
