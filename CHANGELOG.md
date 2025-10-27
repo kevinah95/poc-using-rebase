@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.3.0...v0.4.0-alpha) (2025-10-27)
+
+
+### ✨ Features
+
+* Update README with getting started section ([e760249](https://github.com/kevinah95/poc-using-rebase/commit/e760249e7663c2ae01acff730c37301b7725e94c))
+
 ## [0.3.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.2.0...v0.3.0) (2025-10-27)
 
 
