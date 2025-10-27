@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.6.1-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.0...v0.6.1-alpha) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* Apply fix number 1 ([3146fda](https://github.com/kevinah95/poc-using-rebase/commit/3146fda2e7978a2e72e4ed85b59db1769d89b6b6))
+* Apply fix number 2 ([64dbba7](https://github.com/kevinah95/poc-using-rebase/commit/64dbba7d28e84d2fe10afe926a21b638527eb491))
+* Apply fix number 3 ([f5d5ede](https://github.com/kevinah95/poc-using-rebase/commit/f5d5ede82d3cffd89ae214fa70a6e4e4248e3190))
+
 ## [0.6.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.5.0...v0.6.0) (2025-10-27)
 
 
