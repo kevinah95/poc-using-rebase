@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.2.0...v0.3.0) (2025-10-27)
+
+
+### ✨ Features
+
+* Update README to include CI/CD integration feature ([4ff573a](https://github.com/kevinah95/poc-using-rebase/commit/4ff573af0b9ca4a32e7bd2fdcf48b35d832224cc))
+* Update README to include features section ([752eaab](https://github.com/kevinah95/poc-using-rebase/commit/752eaab955e3592617d34818c3459eb3f37b0d14))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.3.0-alpha ([#7](https://github.com/kevinah95/poc-using-rebase/issues/7)) ([ee546ea](https://github.com/kevinah95/poc-using-rebase/commit/ee546ea9048b2d7f3ae5fb487362d0d132e987a0))
+* :bookmark: prerelease 0.3.0-alpha.1 ([#8](https://github.com/kevinah95/poc-using-rebase/issues/8)) ([1fa846a](https://github.com/kevinah95/poc-using-rebase/commit/1fa846a9cc1cc565bd50c1779e2404ca544eb745))
+
 ## [0.3.0-alpha.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.3.0-alpha...v0.3.0-alpha.1) (2025-10-27)
 
 
