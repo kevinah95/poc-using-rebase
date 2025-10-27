@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.6.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.5.0...v0.6.0) (2025-10-27)
+
+
+### ✨ Features
+
+* **taskfile:** Add simulation tasks for feature and fix commits ([7553b5b](https://github.com/kevinah95/poc-using-rebase/commit/7553b5bb08faeb4fc92601f5351db918643a4753))
+* **taskfile:** Add Taskfile for simulating fix commits ([8e45420](https://github.com/kevinah95/poc-using-rebase/commit/8e4542014b6f231e5fe67e2f83a44b94ec3e003d))
+
+
+### 🐛 Bug Fixes
+
+* Apply fix number 1 ([ccd747a](https://github.com/kevinah95/poc-using-rebase/commit/ccd747a0bb820027a3940dc327f619b6fef08ee1))
+* Apply fix number 2 ([1562072](https://github.com/kevinah95/poc-using-rebase/commit/15620727ba71ea03bd9bd6bc998ed284f1b56713))
+* Apply fix number 3 ([3bc6afb](https://github.com/kevinah95/poc-using-rebase/commit/3bc6afba96e996317e4774f9a0be423ee0680239))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.6.0-alpha ([#17](https://github.com/kevinah95/poc-using-rebase/issues/17)) ([4b78fdf](https://github.com/kevinah95/poc-using-rebase/commit/4b78fdf5b66fba625998d9492c63cfba07dd031f))
+* :bookmark: prerelease 0.6.0-alpha.1 ([#18](https://github.com/kevinah95/poc-using-rebase/issues/18)) ([c6e9303](https://github.com/kevinah95/poc-using-rebase/commit/c6e9303ab4ee494d7fb47c127971e5f3a44fecc4))
+
 ## [0.6.0-alpha.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.0-alpha...v0.6.0-alpha.1) (2025-10-27)
 
 
