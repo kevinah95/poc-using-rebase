@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.1.0...v0.1.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* Update README with project description ([17895a2](https://github.com/kevinah95/poc-using-rebase/commit/17895a22ed64f70ed4f7797e9ec8e85d89a70a87))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.1.1-alpha ([#3](https://github.com/kevinah95/poc-using-rebase/issues/3)) ([6bb2f66](https://github.com/kevinah95/poc-using-rebase/commit/6bb2f66b8b9f291a14c79cbb67e9db460d829f35))
+
 ## [0.1.1-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.1.0...v0.1.1-alpha) (2025-10-27)
 
 
