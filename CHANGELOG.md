@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.4.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.3.0...v0.4.0) (2025-10-27)
+
+
+### ✨ Features
+
+* Update README to include feature note ([1be4174](https://github.com/kevinah95/poc-using-rebase/commit/1be4174e1900bb77c87577a6207e569f3b298ff5))
+* Update README with getting started section ([e760249](https://github.com/kevinah95/poc-using-rebase/commit/e760249e7663c2ae01acff730c37301b7725e94c))
+
+
+### 🐛 Bug Fixes
+
+* Add note about a fix in README ([dd49bc4](https://github.com/kevinah95/poc-using-rebase/commit/dd49bc422744c819b872ece1c380d111500fa5ef))
+* Enable bumping minor version for prereleases ([acadc22](https://github.com/kevinah95/poc-using-rebase/commit/acadc22640c8ccac4e128dc498fa0712f9b02562))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.4.0-alpha ([#10](https://github.com/kevinah95/poc-using-rebase/issues/10)) ([fb49996](https://github.com/kevinah95/poc-using-rebase/commit/fb499960ef12522ed0dfef83a43c8aace91c9bbc))
+* :bookmark: prerelease 0.4.0-alpha.1 ([#11](https://github.com/kevinah95/poc-using-rebase/issues/11)) ([b5d6c94](https://github.com/kevinah95/poc-using-rebase/commit/b5d6c9475cabf01719e2323fe94e03f8745330dd))
+* :bookmark: prerelease 0.4.0-alpha.2 ([#12](https://github.com/kevinah95/poc-using-rebase/issues/12)) ([31127cf](https://github.com/kevinah95/poc-using-rebase/commit/31127cfa085a3ba94852e82976fff4e010210023))
+* :bookmark: prerelease 0.4.0-alpha.3 ([#13](https://github.com/kevinah95/poc-using-rebase/issues/13)) ([e8abbd1](https://github.com/kevinah95/poc-using-rebase/commit/e8abbd1a17956245875b71b503b63a9012035a22))
+
 ## [0.4.0-alpha.3](https://github.com/kevinah95/poc-using-rebase/compare/v0.4.0-alpha.2...v0.4.0-alpha.3) (2025-10-27)
 
 
