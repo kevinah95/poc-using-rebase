@@ -26,4 +26,4 @@ tasks:
           echo "✅ Created fix commit $i"
         done
       - echo "✨ Done! Created {{.FIXES}} fix commits."
-      - echo "💡 Push to alpha branch: git push origin alpha"
+      - echo "💡 Push to alpha branch git push origin alpha"
