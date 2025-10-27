@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.6.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.5.0...v0.6.0-alpha) (2025-10-27)
+
+
+### ✨ Features
+
+* **taskfile:** Add Taskfile for simulating fix commits ([8e45420](https://github.com/kevinah95/poc-using-rebase/commit/8e4542014b6f231e5fe67e2f83a44b94ec3e003d))
+
+
+### 🐛 Bug Fixes
+
+* Apply fix number 1 ([ccd747a](https://github.com/kevinah95/poc-using-rebase/commit/ccd747a0bb820027a3940dc327f619b6fef08ee1))
+* Apply fix number 2 ([1562072](https://github.com/kevinah95/poc-using-rebase/commit/15620727ba71ea03bd9bd6bc998ed284f1b56713))
+* Apply fix number 3 ([3bc6afb](https://github.com/kevinah95/poc-using-rebase/commit/3bc6afba96e996317e4774f9a0be423ee0680239))
+
 ## [0.5.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.4.0...v0.5.0) (2025-10-27)
 
 
