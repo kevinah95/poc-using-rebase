@@ -1,0 +1,29 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+  NUM_FIXES: '3'
+
+tasks:
+  default:
+    cmds:
+      - echo "{{.GREETING}}"
+    silent: true
+
+  simulate-alpha-fixes:
+    desc: Simulate fix commits for alpha branch
+    vars:
+      FIXES: '{{.NUM_FIXES | default "3"}}'
+    cmds:
+      - echo "Simulating {{.FIXES}} fix commits for alpha..."
+      - |
+        for i in $(seq 1 {{.FIXES}}); do
+          echo "A fix" >> README.md
+          git add README.md
+          git commit -m "fix: apply fix number $i"
+          echo "✅ Created fix commit $i"
+        done
+      - echo "✨ Done! Created {{.FIXES}} fix commits."
+      - echo "💡 Push to alpha branch: git push origin alpha"
