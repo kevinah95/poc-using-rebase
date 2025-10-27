@@ -10,3 +10,4 @@ It contains minimal code and is primarily focused on showcasing the integration 
 - Rebase workflow compatibility.
 - Clear and concise changelog generation.
 - Versioning based on commit history.
+- Easy integration with CI/CD pipelines.
