@@ -26,7 +26,7 @@ tasks:
           echo "✅ Created fix commit $i"
         done
       - echo "✨ Done! Created {{.FIXES}} fix commits."
-      - echo "💡 Push to alpha branch: git push origin alpha"
+      - echo "💡 Push to alpha branch git push origin alpha"
 
   simulate-feat-fix:
     desc: Simulate feature then fix commits for alpha branch
@@ -34,15 +34,17 @@ tasks:
       - echo "Simulating feature commit..."
       - echo "A feature" >> README.md
       - git add README.md
-      - git commit -m "feat: add new feature"
+      - |
+        git commit -m "feat: add new feature"
       - echo "✅ Created feature commit"
       - echo "Simulating fix commit..."
       - echo "A fix" >> README.md
       - git add README.md
-      - git commit -m "fix: apply fix after feature"
+      - |
+        git commit -m "fix: apply fix after feature"
       - echo "✅ Created fix commit"
       - echo "✨ Done! Created 1 feature + 1 fix commits."
-      - echo "💡 Push to alpha branch: git push origin alpha"
+      - echo "💡 Push to alpha branch git push origin alpha"
 
   simulate-fix-feat:
     desc: Simulate fix then feature commits for alpha branch
@@ -50,12 +52,14 @@ tasks:
       - echo "Simulating fix commit..."
       - echo "A fix" >> README.md
       - git add README.md
-      - git commit -m "fix: apply fix first"
+      - |
+        git commit -m "fix: apply fix first"
       - echo "✅ Created fix commit"
       - echo "Simulating feature commit..."
       - echo "A feature" >> README.md
       - git add README.md
-      - git commit -m "feat: add new feature"
+      - |
+        git commit -m "feat: add new feature"
       - echo "✅ Created feature commit"
       - echo "✨ Done! Created 1 fix + 1 feature commits."
-      - echo "💡 Push to alpha branch: git push origin alpha"
+      - echo "💡 Push to alpha branch git push origin alpha"
