@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0-alpha.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.4.0-alpha...v0.4.0-alpha.1) (2025-10-27)
+
+
+### 🐛 Bug Fixes
+
+* Add note about a fix in README ([dd49bc4](https://github.com/kevinah95/poc-using-rebase/commit/dd49bc422744c819b872ece1c380d111500fa5ef))
+
 ## [0.4.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.3.0...v0.4.0-alpha) (2025-10-27)
 
 
