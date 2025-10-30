@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.2-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.1-alpha...v0.7.2-alpha) (2025-10-30)
+
+
+### 🔙 Reverts
+
+* Update manifest file path in release workflow ([#31](https://github.com/kevinah95/poc-using-rebase/issues/31)) ([fc1a5fc](https://github.com/kevinah95/poc-using-rebase/commit/fc1a5fc4b388b4a3277ccf7188b669626d668309))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.7.1-alpha ([1933e24](https://github.com/kevinah95/poc-using-rebase/commit/1933e24c642ff2ba6e7ce7b8b437cef99ee4e6f2))
+* :bookmark: prerelease 0.7.1-alpha ([bbc8cf1](https://github.com/kevinah95/poc-using-rebase/commit/bbc8cf179e0a6186ff82fb18abcdb0bafacaed2f))
+
 ## [0.7.1-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.0...v0.7.1-alpha) (2025-10-30)
 
 
