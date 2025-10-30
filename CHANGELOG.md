@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.1...v0.7.0-alpha) (2025-10-30)
+
+
+### ✨ Features
+
+* Add a new feature note to README ([#22](https://github.com/kevinah95/poc-using-rebase/issues/22)) ([b1254d8](https://github.com/kevinah95/poc-using-rebase/commit/b1254d8c967c8c2a4b6ecd4cfa6d3641d660b812))
+
 ## [0.6.1](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.0...v0.6.1) (2025-10-27)
 
 
