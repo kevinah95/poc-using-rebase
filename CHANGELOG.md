@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.8.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.1-alpha...v0.8.0-alpha) (2025-10-30)
+
+
+### ✨ Features
+
+* Add 'feat button' to README ([#35](https://github.com/kevinah95/poc-using-rebase/issues/35)) ([0fe89ea](https://github.com/kevinah95/poc-using-rebase/commit/0fe89ea73d9b6a3ab8849584ef56fff3f25ab7f6))
 ## [0.7.2-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.1-alpha...v0.7.2-alpha) (2025-10-30)
 
 
