@@ -7,6 +7,24 @@
 
 * Remove the reinvention of the wheel ([#27](https://github.com/kevinah95/poc-using-rebase/issues/27)) ([f55c78e](https://github.com/kevinah95/poc-using-rebase/commit/f55c78e07284cb5ec2a9e0d009e05d8ac97229fb))
 
+
+### 🔙 Reverts
+
+* Update manifest file path in release workflow ([#31](https://github.com/kevinah95/poc-using-rebase/issues/31)) ([fc1a5fc](https://github.com/kevinah95/poc-using-rebase/commit/fc1a5fc4b388b4a3277ccf7188b669626d668309))
+
+
+### 🔧 Miscellaneous Chores
+
+* :bookmark: prerelease 0.7.1-alpha ([cc14ab1](https://github.com/kevinah95/poc-using-rebase/commit/cc14ab1e09b4ee275e69c73d2b38a1775478a1ce))
+* :bookmark: prerelease 0.7.1-alpha ([4b6b3e3](https://github.com/kevinah95/poc-using-rebase/commit/4b6b3e367e1a87c02f767f753bceebdc82933a80))
+
+## [0.7.1-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.0...v0.7.1-alpha) (2025-10-30)
+
+
+### 🐛 Bug Fixes
+
+* Remove the reinvention of the wheel ([#27](https://github.com/kevinah95/poc-using-rebase/issues/27)) ([f55c78e](https://github.com/kevinah95/poc-using-rebase/commit/f55c78e07284cb5ec2a9e0d009e05d8ac97229fb))
+
 ## [0.7.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.1...v0.7.0) (2025-10-30)
 
 
