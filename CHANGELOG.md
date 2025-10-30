@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.0...v0.7.1-alpha) (2025-10-30)
+
+
+### 🐛 Bug Fixes
+
+* Remove the reinvention of the wheel ([#27](https://github.com/kevinah95/poc-using-rebase/issues/27)) ([f55c78e](https://github.com/kevinah95/poc-using-rebase/commit/f55c78e07284cb5ec2a9e0d009e05d8ac97229fb))
+
 ## [0.7.0](https://github.com/kevinah95/poc-using-rebase/compare/v0.6.1...v0.7.0) (2025-10-30)
 
 
