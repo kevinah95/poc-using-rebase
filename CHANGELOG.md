@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.3-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.2-alpha...v0.7.3-alpha) (2025-10-30)
+
+
+### 🔧 Miscellaneous Chores
+
+* Promotion to prod ([#37](https://github.com/kevinah95/poc-using-rebase/issues/37)) ([a707ea8](https://github.com/kevinah95/poc-using-rebase/commit/a707ea86f76b5f3e16def8d36f73b4ce3bc25b5b))
+
 ## [0.8.0-alpha](https://github.com/kevinah95/poc-using-rebase/compare/v0.7.1-alpha...v0.8.0-alpha) (2025-10-30)
 
 
